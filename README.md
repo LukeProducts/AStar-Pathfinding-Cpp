@@ -1,4 +1,4 @@
-A* Pathfinding
+#### A* Pathfinding
 
 This module was developed to determine the shortest,
 (i.e. the fastest) path from a to b on a two-dimensional playing field called maze.
