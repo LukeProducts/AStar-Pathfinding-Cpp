@@ -4,7 +4,9 @@ This module was developed to determine the shortest,
 (i.e. the fastest) path from a to b on a two-dimensional playing field called maze.
 A distinction is made between walkable and non-walkable paths.
 For the representation of a maze a two nested vector is used.
-
+´´´raw
+hello
+´´´
 why the A*-Algorithm is extremely fast:
 In the following,
 the path problem is solved as quickly as possible by calculating a score from the estimated distance
