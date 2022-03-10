@@ -5,7 +5,7 @@ This module was developed to determine the shortest,
 A distinction is made between walkable and non-walkable paths.
 For the representation of a maze a two nested vector is used.
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15` 
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
 
 
