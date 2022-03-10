@@ -5,6 +5,11 @@ This module was developed to determine the shortest,
 A distinction is made between walkable and non-walkable paths.
 For the representation of a maze a two nested vector is used.
 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15` 
+
+
+
+
 ## Example:
 ```
 ############################### -----------------------------------> ###############################
@@ -38,4 +43,4 @@ and the sum of paths already taken,
 which is used to prioritize the order in which the neighbor nodes are investigated.
 This also has the effect that A* always knows in which direction the end node is
 and therefore does not first examine the neighbor away from it, but first all fast paths.
-<span style="color: green"> Some green text </span>
+
