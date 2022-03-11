@@ -11,6 +11,8 @@ For the representation of a maze a two nested vector is used.
 
 
 
+
+
 ## Example:
 ```
 ############################### -----------------------------------> ###############################
