@@ -115,13 +115,10 @@ the same priority
 
 <img src="https://user-images.githubusercontent.com/73026669/157855414-6f6f2fd1-7da4-4eba-8cf6-b1b66ccb12d9.jpg" align="left" />
 <h3> AStarResult - Class </h3>
-<html>
- <body>
 The main AStar() function returns a AStarResult class-object which provides the hole path went, 
 the total amount of moves, 
-  done as well as a method to <p style="font-style:bold">print out the hole maze</p>
- </body>
-</html>
+done as well as a method to print out the hole maze
+
 
 
 
