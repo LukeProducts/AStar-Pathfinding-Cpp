@@ -155,7 +155,7 @@ A* made 64 moves to reach (19, 29) from (1, 1)
 <br><br>
 -----------------------------------------------------------------------------------
 
-
+https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/14c2a2b6773bd87094b09eae8189e36539831fc7/examples/prepare_maze.cpp#L7-L32
 <h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L325-L368">prepare_maze()</a> - function </h3>
 
 The prepare function converts a maze consisting out of <br>
@@ -163,7 +163,7 @@ __barriers__ (f.ex. '#') and __walkable terrain__ (f.ex. ' ') <br>
 is converted to a maze out of zeroes and ones, <br>
 the ones represent the not walkable terrain and the zeroes the walkable terrain by default. <br><br>
 All this settings could be adjusted in the __#define__ statements at the beginning of this package.<br><br>
-https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/14c2a2b6773bd87094b09eae8189e36539831fc7/examples/prepare_maze.cpp#L7-L32
+
 
 ```
 ########## -----> 1111111111
