@@ -283,4 +283,4 @@ which makes it possible to find objects into this *vector\<srting>* which is ret
 
 https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/f756a923a53dffcba8186acd6b6c3929c91f4776/examples/readunpreparedmaze.cpp#L10-L21
 
-
+note, that you need to convert this maze with prepared_maze() manully, before passing it into AStar()
