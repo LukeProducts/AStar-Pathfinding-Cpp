@@ -53,11 +53,16 @@ The formula used for this is:
 
 **n**
 
-> is the Node Object
+> is the Node Object itself
 
 
 **g(n)**
-> this is to
+> Is the estimate of how far n is from the end node 
+
+
+**h(n)**
+> Is the number of travelled path units from the 
+> start node to the current position of n
 
 <img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700px"/>
 
