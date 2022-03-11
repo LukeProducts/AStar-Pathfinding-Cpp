@@ -59,7 +59,9 @@ The formula used for this is:
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-5.png" align="right" width="200px" />
 
 **g(n)**
-> Is the estimate of how far n is from the end node 
+> Is the estimate of how far n is from the end node
+> the formula **(current_cell.x – goal.x)2 + 
+            (current_cell.y – goal.y)2** is used here
 
 
 
