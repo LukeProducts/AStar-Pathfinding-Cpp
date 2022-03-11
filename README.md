@@ -69,10 +69,10 @@ The formula used for this is:
 > with the greatest probability of being the fastest path, which makes the code much faster, 
 > because otherwise the graph would not look like above, but like this:
 > 
->   (much slower search, because the algorith has no clue, in which direction to go first)
- 
-<img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" width="200px" />
 
+ 
+<img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" align="right" width="200px" />
+much slower search, because the algorith has no clue, in which direction to go first
 
 
 
