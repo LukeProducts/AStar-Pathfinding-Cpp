@@ -162,6 +162,7 @@ is converted to a maze out of zeroes and ones, <br>
 the ones represent the not walkable terrain and the zeroes the walkable terrain by default. <br><br>
 All this settings could be adjusted in the __#define__ statements at the beginning of this package.<br><br>
 https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/14c2a2b6773bd87094b09eae8189e36539831fc7/examples/prepare_maze.cpp#L7-L32
+<p align="right">
 ```
 ########## -----> 1111111111
 #        # -----> 1000000001
@@ -179,7 +180,7 @@ this is because **AStar()** needs this 2-dimensional vector <br>
 to figure out wheather its a walkable or not walkable terrain. <br><br>
 **prepare_maze()** can handle a __vector<string>__ or a __vector<vector<char>>__ as param. <br>
 
- 
+ </p>
  
  
  
