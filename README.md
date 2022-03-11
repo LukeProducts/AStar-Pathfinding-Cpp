@@ -169,7 +169,7 @@ All this settings could be adjusted in the __#define__ statements at the beginni
 
 This is because **AStar()** needs this 2-dimensional vector <br>
 to figure out wheather its a walkable or not walkable terrain. <br><br>
-**prepare_maze()** can handle a __vector<string>__ or a __vector<vector<char>>__ as param. <br>
+**prepare_maze()** can handle a "vector<string>" or a "vector<vector<char>>" as param. <br>
  
 https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/14c2a2b6773bd87094b09eae8189e36539831fc7/examples/prepare_maze.cpp#L7-L32
 
