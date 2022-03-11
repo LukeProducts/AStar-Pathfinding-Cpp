@@ -167,7 +167,7 @@ the ones represent the not walkable terrain and the zeroes the walkable terrain 
 All this settings could be adjusted in the __#define__ statements at the beginning of this package.<br><br>
 
 
-this is because **AStar()** needs this 2-dimensional vector <br>
+This is because **AStar()** needs this 2-dimensional vector <br>
 to figure out wheather its a walkable or not walkable terrain. <br><br>
 **prepare_maze()** can handle a __vector<string>__ or a __vector<vector<char>>__ as param. <br>
  
@@ -188,14 +188,11 @@ what happens:
 ##  ##  ## -----> 1100110011
 ########## -----> 1111111111
 ```
-
-
-
+------------------------------------------------
+ 
+ <h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L396-L421">find_obj</a> - function <h3> 
  
  
- 
- 
- 
- 
+ **find_obj** finds an character out of a default maze
  
  
