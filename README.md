@@ -64,6 +64,15 @@ The formula used for this is:
 > **(current_cell.x – goal.x)^2 + (current_cell.y – goal.y)^2** 
 
 
+**f(n)**
+> the sum of both **g(n)** and **h(n)**
+
+> is a score value with which we select and 
+> examine from different nodes the one with the best score, 
+> with the greatest probability of being the fastest path, which makes the code much faster, 
+> because otherwise the graph would not look like above, but like this:
+
+
 
 
 
