@@ -36,7 +36,7 @@ For the representation of a maze a two nested vector is used.
 
 ```
 
-<h2 text-decoration="underline"> How does the A* - Algorithm</h2>
+<h2 style="text-decoration=underline;"> How does the A* - Algorithm works? </h2>
 
 
 
