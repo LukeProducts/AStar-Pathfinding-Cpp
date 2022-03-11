@@ -196,6 +196,6 @@ what happens:
  <h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L396-L421">find_obj</a> - function </h3> 
  
  
- **find_obj** finds an character out of a default maze, which needs to be a vector`<string>
+ **find_obj** finds an character out of a default maze, which needs to be a vector\<string>
  
  
