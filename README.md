@@ -115,7 +115,7 @@ the same priority
 ## included Features
 
 
-<h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L108-L139">AStarResult</a> - Class </h3>
+## <h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L108-L139">AStarResult</a> - Class </h3>
 
 --------------------------------------------------------
 
