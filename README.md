@@ -14,7 +14,6 @@ For the representation of a maze a two nested vector is used.
 
 
 
-```
 
 ### How does the A* - Algorithm works?
 
@@ -110,6 +109,7 @@ The formula used for this is:
 ############################### -----------------------------------> ###############################
 
 
+```
 
 
 
