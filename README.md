@@ -44,7 +44,7 @@ and the sum of paths already taken,
 which is used to prioritize the order in which the neighbor nodes are investigated.
 This also has the effect that A* always knows in which direction the end node is
 and therefore does not first examine the neighbor away from it, but first all fast paths.
-The formula used for this is ![asas(https://wikimedia.org/api/rest_v1/media/math/render/svg/5c05c9af6fa9d56e8faf12460bf98ebf9f936581]
+The formula used for this is f(x) = g(x) + h(x)
 <img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700px"/>
 
 
