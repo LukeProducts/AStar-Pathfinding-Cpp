@@ -45,7 +45,7 @@ which is used to prioritize the order in which the neighbor nodes are investigat
 This also has the effect that A* always knows in which direction the end node is
 and therefore does not first examine the neighbor away from it, but first all fast paths.
 
-The formula used for this is <p style="font-style:bold" size="15px"> f(x) = g(x) + h(x) </p>
+The formula used for this is <p style="font-style:bold" size="15px"> f(x) = g(x) + h(x) </p> {font-size=19px}
 <img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700px"/>
 
 
