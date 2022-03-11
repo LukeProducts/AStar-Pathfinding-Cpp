@@ -44,7 +44,7 @@ and the sum of paths already taken,
 which is used to prioritize the order in which the neighbor nodes are investigated.
 This also has the effect that A* always knows in which direction the end node is
 and therefore does not first examine the neighbor away from it, but first all fast paths.
-
+f(n)=g(n)+h(n)
 <img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700px"/>
 
 
