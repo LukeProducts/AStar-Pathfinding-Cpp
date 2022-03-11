@@ -76,7 +76,7 @@ much slower search, <br>
 because the algorith has no clue, <br>
 in which direction to go first
 
-<br><br>
+<br><br><br><br>
 
 ## Example:
 ```
