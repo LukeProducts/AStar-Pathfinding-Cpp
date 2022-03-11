@@ -123,7 +123,7 @@ done as well as a method to print out the hole maze
 
 <br><br><br><br><br><br><br><br><br><br>
 possible output:
-<p align="left"
+<p align="left">
 ```
 A* made 64 moves to reach (19, 29) from (1, 1)
 ###############################
