@@ -45,10 +45,8 @@ This also has the effect that A* always knows in which direction the end node is
 and therefore does not first examine the neighbor away from it, but first all fast paths.
 
 
-<p align="right">
-  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif" />
-</p>
 
+![Some Title](https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 [![maze_sample](https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif)](https://github.com/LukeProducts)
 
