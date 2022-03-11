@@ -38,6 +38,12 @@ For the representation of a maze a two nested vector is used.
 
 ### How does the A* - Algorithm works?
 
+It is started with the help of a specified labirynth and 
+a start and end node, of which only the position is known at the beginning of the runtime. 
+Now all possible paths around this node are examined, 
+and these then again just like the start node until a node arrives at the position of the end node. 
+Then the fastest possible way from start to end is explored, i.e. the best node to go, and then output.
+
 
 
 
