@@ -154,7 +154,7 @@ A* made 64 moves to reach (19, 29) from (1, 1)
 -----------------------------------------------------------------------------------
 
 <img src="https://user-images.githubusercontent.com/73026669/157859667-9cb5c26d-812c-4666-a14a-ffa3284d3189.jpg" align="left" />
-<h3> prepare maze - function </h3>
+<h3> **prepare_maze()** - function </h3>
 
 The prepare function converts a maze consisting out of <br>
 __barriers__ (f.ex. '#') and __walkable terrain__ (f.ex. ' ') <br>
@@ -174,5 +174,7 @@ All this settings could be adjusted in the __#define__ statements at the beginni
 ##  ##  ## -----> 1100110011
 ########## -----> 1111111111
 ```
+
 this is because **AStar()** needs this 2-dimensional vector <br>
-to figure out wheather its a walkable or not walkable terrain.
+to figure out wheather its a walkable or not walkable terrain. <br><br>
+**prepare_maze()** can handle a vector<string> or a vector<vector<char>> as param. <br>
