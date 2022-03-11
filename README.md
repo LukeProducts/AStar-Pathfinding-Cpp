@@ -52,6 +52,8 @@ The formula used for this is:
 <br>
 **n**
 > is the Node Object
+
+
 **g(n)**
 > this is to
 
