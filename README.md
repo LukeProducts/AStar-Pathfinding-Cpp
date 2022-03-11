@@ -47,7 +47,6 @@ The formula used for this is:
 > **n**
 
 > is the Node Object itself
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Wayside_Signal_Red.svg" align="right" width="50px" />
 
 --------------
