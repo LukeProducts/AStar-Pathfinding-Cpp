@@ -24,16 +24,7 @@ and these then again just like the start node until a node arrives at the positi
 Then the fastest possible way from start to end is explored, i.e. the best node to go, and then output.
 
 
-
-
-
-
-
-
-
-
-
-
+<br><br>
 
 
 #### why the A*-Algorithm is extremely fast:
