@@ -59,7 +59,7 @@ The formula used for this is:
 **g(n)**
 > Is the estimate of how far n is from the end node 
 
-
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-5.png">
 
 
 
