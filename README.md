@@ -121,7 +121,7 @@ done as well as a method to print out the hole maze
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 possible output:
 
 ```
