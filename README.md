@@ -77,12 +77,18 @@ much slower search, <br>
 because the algorith has no clue, <br>
 in which direction to go first, <br>
 so it goes in each direction with <br>
-the same urgency
+the same priority
 
 <br><br><br><br>
 
 ### included Features
 
+```
+AstarResult result = Astar(maze, start_node, end_node); // returns AStarresult Class
+
+cout << result.movements; // returns min movements made to get from start_node to end_node
+
+```
 
 
 ## Example:
