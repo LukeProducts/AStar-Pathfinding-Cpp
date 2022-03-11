@@ -46,7 +46,7 @@ and therefore does not first examine the neighbor away from it, but first all fa
 
 
 <p align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif" />
+  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif" />
 </p>
 
 
