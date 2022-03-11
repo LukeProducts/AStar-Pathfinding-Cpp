@@ -198,7 +198,7 @@ what happens:
  
  **find_obj** finds an character out of a maze in ascii format, <br>
  such as vector\<string> or vector\<vector\<char>> <br>
- and returns a vector\<int> with the (x, y) position of the character into the maze. <br>
+ and returns a vector\<int> with the (x, y) position of the character into the maze. <br><br>
  This is usefull to figure out the start and ends position in your maze, <br>
  so that you can pass this info into Astar(), which needs the position <br>
  of the start and end node at second and third position like findobj() returns it for you.
