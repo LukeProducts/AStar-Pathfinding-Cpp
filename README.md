@@ -7,6 +7,7 @@ For the representation of a maze a two nested vector is used.
 
 
 
+<img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700x"/>
 
 
 
@@ -49,7 +50,7 @@ Then the fastest possible way from start to end is explored, i.e. the best node 
 
 
 
-<img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" width="200px" />
+
 
 
 
@@ -99,11 +100,10 @@ The formula used for this is:
 > with the greatest probability of being the fastest path, which makes the code much faster, 
 > because otherwise the graph would not look like above, but like this:
  
+<img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" width="200px" />
 
 
 
-
-<img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700x"/>
 
 
 
