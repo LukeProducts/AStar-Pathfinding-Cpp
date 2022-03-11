@@ -174,3 +174,5 @@ All this settings could be adjusted in the __#define__ statements at the beginni
 ##  ##  ## -----> 1100110011
 ########## -----> 1111111111
 ```
+this is because **AStar()** needs this 2-dimensional vector <br>
+to figure out wheather its a walkable or not walkable terrain.
