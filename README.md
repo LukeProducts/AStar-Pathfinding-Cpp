@@ -36,7 +36,20 @@ For the representation of a maze a two nested vector is used.
 
 ```
 
-<h1> How does the A* - Algorithm</h1>
+<h2 text-decoration="underline"> How does the A* - Algorithm</h2>
+
+
+
+
+
+
+<img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" width="200px" />
+
+
+
+
+
+
 
 #### why the A*-Algorithm is extremely fast:
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif" align="left" width="200px"/>
