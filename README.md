@@ -254,3 +254,34 @@ you must know the start and end position before, <br>
 you would hardcode them, <br>
 but that's probably not, what you want. <br><br>
 So theres the pardon readunpreparedmaze presented in the following.
+
+
+------------------------------------------------
+
+<h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L482-L514">readunpreparedmaze</a> - function </h3>
+
+readunpreparedmaze does the same thing like readmaze in general, <br>
+but does not already convert it into a numeric vector, <br>
+but into a ascii one. <br>
+
+you'll get returned the following:
+
+```
+
+    ##########
+    #a       #
+    # ##### ##
+    # ##    ##
+    # ##  ####
+    # ###    #
+    #  #  ## #
+    ###  ##  #
+    ##  ## b##
+    ##########
+```
+
+which makes it possible to find objects into this *vector\<srting>* retuned like shown here:
+
+https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/f756a923a53dffcba8186acd6b6c3929c91f4776/examples/readunpreparedmaze.cpp#L10-L21
+
+a
