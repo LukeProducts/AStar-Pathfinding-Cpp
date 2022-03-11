@@ -60,6 +60,10 @@ The formula used for this is:
 > Is the estimate of how far n is from the end node 
 
 
+
+
+
+
 **h(n)**
 > Is the number of travelled path units from the 
 > start node to the current position of n
