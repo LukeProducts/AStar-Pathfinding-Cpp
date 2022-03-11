@@ -42,6 +42,8 @@ The formula used for this is:
 
 <br>
 
+--------------
+
 **n**
 
 > is the Node Object itself
@@ -76,7 +78,7 @@ The formula used for this is:
 > because otherwise the graph would not look like above, but like this:
 > 
 
---------------
+
  
 <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" align="left" width="200px" />
 
@@ -87,6 +89,8 @@ so it goes in each direction with <br>
 the same priority
 
 <br><br><br><br>
+
+--------------
 
 ## Example:
 ```
