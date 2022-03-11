@@ -39,8 +39,7 @@ For the representation of a maze a two nested vector is used.
 #### why the A*-Algorithm is extremely fast:
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif" align="left" width="200px"/>
 
-In the following,
-the path problem is solved as quickly as possible by calculating a score from the estimated distance
+The path problem is solved as quickly as possible by calculating a score from the estimated distance
 and the sum of paths already taken,
 which is used to prioritize the order in which the neighbor nodes are investigated.
 This also has the effect that A* always knows in which direction the end node is
