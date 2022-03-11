@@ -83,14 +83,8 @@ the same priority
 
 ### included Features
 
-```cpp
+![AStarResult_Sample](https://user-images.githubusercontent.com/73026669/157852639-2d2f4d75-8a28-4845-a47c-8c18cc5112dc.PNG)
 
-int main() {
-AstarResult result = Astar(maze, start_node, end_node); // returns AStarresult Class
-
-cout << result.movements; // returns min movements made to get from start_node to end_node
-}
-```
 
 
 ## Example:
