@@ -209,7 +209,7 @@ what happens:
 
 <h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L454-L480">readmaze</a> - function </h3>
 
-readmaze reads in a maze from the consoles cin stream, <br>
+readmaze reads in a maze from the consoles *cin* stream, <br>
 the first line must consist of two integers that indicate the height and width of the mazes to be read in. <br>
 In the following you can pass in the maze like this: <br>
 
@@ -228,8 +228,8 @@ In the following you can pass in the maze like this: <br>
 
 ```
 readmaze converts this directly to the maze format by calling the prepare_maze - function, <br>
-which Astar() needs, <br>
-so in the one with ones and zeros:
+which AStar() needs, <br>
+so in the numeric one:
 ```
     1111111111
     1000000001
@@ -243,7 +243,7 @@ so in the one with ones and zeros:
     1111111111
 ```
 
-so you can pass in the return value vector\<vector\<int>> directly into the AStar - function:
+so you can pass in the return value *vector\<vector\<int>>* directly into the AStar - function:
 
 https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/examples/readmaze.cpp#L10-L16
 
