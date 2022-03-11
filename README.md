@@ -44,7 +44,7 @@ The formula used for this is:
 
 --------------
 
-**n**
+> **n**
 
 > is the Node Object itself
 
@@ -64,13 +64,13 @@ The formula used for this is:
 
 --------------
 
-**h(n)**
+> **h(n)**
 > Is the number of travelled path units from the 
 > start node to the current position of n
 
 --------------
 
-**f(n)**
+> **f(n)**
 > the sum of both **g(n)** and **h(n)**
 
 > is a score value with which we select and 
