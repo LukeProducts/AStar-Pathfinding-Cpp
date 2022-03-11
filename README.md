@@ -301,7 +301,7 @@ https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/f756a923a53dffcba8186
 note, that you need to convert this maze with prepared_maze() manully, before passing it into AStar()
 
 
-
+<br><br>
 
 
 With that being said, 
