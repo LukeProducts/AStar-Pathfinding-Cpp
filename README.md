@@ -60,8 +60,8 @@ The formula used for this is:
 
 **g(n)**
 > Is the estimate of how far n is from the end node
-> the formula **(current_cell.x – goal.x)2 + 
-            (current_cell.y – goal.y)2** is used here
+> the formula **(current_cell.x – goal.x)^2 + 
+            (current_cell.y – goal.y)^1** is used here
 
 
 
