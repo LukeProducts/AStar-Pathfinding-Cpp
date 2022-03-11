@@ -304,7 +304,7 @@ note, that you need to convert this maze with prepared_maze() manully, before pa
 <br>
 
 
-With that being said, have fun with this!
+With that being said, have fun with it!
 
 <br><br>
 
