@@ -117,7 +117,7 @@ the same priority
 The main AStar() function returns a AStarResult class-object which provides the hole path went, 
 the total amount of moves, 
 done as well as a method to print out the hole maze
-<br><br>
+<br><br><br><br>
 possible output:
 
 ```
