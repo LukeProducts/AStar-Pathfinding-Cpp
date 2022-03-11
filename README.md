@@ -84,10 +84,12 @@ the same priority
 ### included Features
 
 ```cpp
+
+int main() {
 AstarResult result = Astar(maze, start_node, end_node); // returns AStarresult Class
 
 cout << result.movements; // returns min movements made to get from start_node to end_node
-
+}
 ```
 
 
