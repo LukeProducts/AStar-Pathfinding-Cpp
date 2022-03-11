@@ -203,5 +203,5 @@ what happens:
  so that you can pass this info into Astar(), which needs the position <br>
  of the start and end node at second and third position like findobj() returns it for you.
  
- 
+ https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/8488ab52bc5d2b31ab3f91f949e09666c714fe90/examples/prepare_maze.cpp#L36-L44
  
