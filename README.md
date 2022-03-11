@@ -36,7 +36,7 @@ For the representation of a maze a two nested vector is used.
 
 ```
 
-### why the A*-Algorithm is extremely fast:
+#### why the A*-Algorithm is extremely fast:
 In the following,
 the path problem is solved as quickly as possible by calculating a score from the estimated distance
 and the sum of paths already taken,
