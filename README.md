@@ -157,9 +157,9 @@ A* made 64 moves to reach (19, 29) from (1, 1)
 <h3> prepare maze - function </h3>
 
 The prepare function converts a maze consisting out of <br>
-__barriers__ (f.ex. '#') and __walkable terrain__ (f.ex. ' ') <br>
+__barriers__ (f.ex. '#') and __walkable terrain__ (f.ex. ' ') <br><br>
 is converted to a maze out of zeroes and ones, <br>
-the ones represent the not walkable terrain and the zeroes the walkable terrain by default. <br>
+the ones represent the not walkable terrain and the zeroes the walkable terrain by default. <br><br>
 All this settings could be adjusted in the __#define__ statements at the beginning of this package.<br>
 
 
