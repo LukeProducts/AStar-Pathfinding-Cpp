@@ -48,12 +48,13 @@ The formula used for this is:
 
 > is the Node Object itself
 
+<br>
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-5.png" align="right" width="200px" />
 
 --------------
 
-**g(n)**
+> **g(n)**
 
 
 
