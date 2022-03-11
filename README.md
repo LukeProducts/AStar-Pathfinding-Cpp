@@ -114,7 +114,7 @@ the same priority
 ## included Features
 
 <img src="https://user-images.githubusercontent.com/73026669/157855414-6f6f2fd1-7da4-4eba-8cf6-b1b66ccb12d9.jpg" align="left" />
-<h3> AStarResult - Class </h3>
+<h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L108-L139">AStarResult</a> - Class </h3>
 The main AStar() function returns a AStarResult class-object which provides the hole path went, 
 the total amount of moves, 
 done as well as a method to print out the hole maze
