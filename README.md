@@ -50,7 +50,9 @@ The formula used for this is:
 **f(n) = g(n) + h(n)**
 
 <br>
+
 **n**
+
 > is the Node Object
 
 
