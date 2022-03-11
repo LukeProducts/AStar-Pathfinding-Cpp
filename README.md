@@ -156,8 +156,8 @@ A* made 64 moves to reach (19, 29) from (1, 1)
 <img src="https://user-images.githubusercontent.com/73026669/157859667-9cb5c26d-812c-4666-a14a-ffa3284d3189.jpg" align="left" />
 <h3> prepare maze - function </h3>
 
-the prepare function converts a maze consisting out of barriers (f.ex. '#') and walkable terrain (f.ex. ' ')
-is converted to a maze out of zeroes and ones, the ones represent the not walkable terrain and the zeroes the walkable terrain by default.
-All this settings could be adjusted in the #define statements at the beginning of this package.
+the prepare function converts a maze consisting out of barriers (f.ex. '#') and walkable terrain (f.ex. ' ')<br>
+is converted to a maze out of zeroes and ones, the ones represent the not walkable terrain and the zeroes the walkable terrain by default.<br>
+All this settings could be adjusted in the #define statements at the beginning of this package.<br>
 
 
