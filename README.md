@@ -49,20 +49,23 @@ The formula used for this is:
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-5.png" align="right" width="200px" />
 
+--------------
+
 **g(n)**
 
---------------
+
 
 > Is the estimate of how far n is from the end node
 > 
 > **(current_cell.x – goal.x)^2 + (current_cell.y – goal.y)^2** 
 
-
+--------------
 
 **h(n)**
 > Is the number of travelled path units from the 
 > start node to the current position of n
 
+--------------
 
 **f(n)**
 > the sum of both **g(n)** and **h(n)**
@@ -73,6 +76,7 @@ The formula used for this is:
 > because otherwise the graph would not look like above, but like this:
 > 
 
+--------------
  
 <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" align="left" width="200px" />
 
