@@ -9,12 +9,6 @@ For the representation of a maze a two nested vector is used.
 
 <img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700px"/>
 
-
-
-
-
-
-
 ### How does the A* - Algorithm works?
 
 It is started with the help of a specified labirynth and 
