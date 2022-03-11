@@ -245,7 +245,9 @@ so in the numeric one:
 
 so you can pass in the return value *vector\<vector\<int>>* directly into the AStar - function:
 
-https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/examples/readmaze.cpp#L10-L16
+
+https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/44eef83aaef6b7a4414e1bfd9801a07eb7c8ae52/examples/readmaze.cpp#L10-L16
+
 
 the disatvantage here is, that because readmaze converts the ascii maze into a numeric one at one time, <br>
 you must know the start and end position before, <br>
