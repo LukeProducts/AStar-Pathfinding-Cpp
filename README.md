@@ -114,7 +114,8 @@ the same priority
 ## included Features
 
 
-[![AStarResut](https://user-images.githubusercontent.com/73026669/157853166-b834d6af-ada6-4f1d-b7f3-f8396a5877da.jpg)](https://github.com/LukeProducts)
+![AStarResut](https://user-images.githubusercontent.com/73026669/157855414-6f6f2fd1-7da4-4eba-8cf6-b1b66ccb12d9.jpg)
+
 
 
 The main AStar() function returns a AStarResult class-object which provides the hole path went, 
@@ -124,6 +125,7 @@ done as well as a method to print out the hole maze
 possible output:
 
 ```
+A* made 64 moves to reach (19, 29) from (1, 1)
 ###############################
 #s+++++++   # +++       #     #
 #  #### +#  # +#+ #  ####  ####
