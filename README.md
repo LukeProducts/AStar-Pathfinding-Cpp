@@ -118,9 +118,9 @@ https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/f803f8a619702f4d48c0e
 
 
 The main AStar() function returns a AStarResult class-object which provides
-- hole path went 
-- the total amount of moves done, 
-- print out the hole maze
+- __hole path went__
+- __the total amount of moves done__ 
+- __print out the hole maze__
 
 
 possible output:
