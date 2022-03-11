@@ -162,4 +162,15 @@ is converted to a maze out of zeroes and ones, <br>
 the ones represent the not walkable terrain and the zeroes the walkable terrain by default. <br><br>
 All this settings could be adjusted in the __#define__ statements at the beginning of this package.<br><br>
 
-
+```
+########## -----> 1111111111
+#        # -----> 1000000001
+# ##### ## -----> 1011111011
+# ##    ## -----> 1011000011
+# ##  #### -----> 1011001111
+# ###    # -----> 1011100001
+#  #  ## # -----> 1001001101
+###  ##  # -----> 1110011001
+##  ##  ## -----> 1100110011
+########## -----> 1111111111
+```
