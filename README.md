@@ -154,7 +154,7 @@ A* made 64 moves to reach (19, 29) from (1, 1)
 -----------------------------------------------------------------------------------
 
 <img src="https://user-images.githubusercontent.com/73026669/157859667-9cb5c26d-812c-4666-a14a-ffa3284d3189.jpg" align="left" />
-<h3> prepare_maze() - function </h3>
+<h3> [!prepare_maze()](https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L325) - function </h3>
 
 The prepare function converts a maze consisting out of <br>
 __barriers__ (f.ex. '#') and __walkable terrain__ (f.ex. ' ') <br>
