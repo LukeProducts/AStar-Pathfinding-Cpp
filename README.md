@@ -46,7 +46,7 @@ and therefore does not first examine the neighbor away from it, but first all fa
 
 
 
-![[Astar_progress_animation](https://user-images.githubusercontent.com/73026669/157831494-b4712aac-9fbb-4c13-a3ce-7e361627360e.gif)](https://upload.wikimedia.org)/wikipedia/commons/5/5d/Astar_progress_animation.gif
+[![Astar_progress_animation](https://user-images.githubusercontent.com/73026669/157831494-b4712aac-9fbb-4c13-a3ce-7e361627360e.gif)](https://upload.wikimedia.org)/wikipedia/commons/5/5d/Astar_progress_animation.gif
 
 ![maze](https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif)
 
