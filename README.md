@@ -36,6 +36,8 @@ For the representation of a maze a two nested vector is used.
 
 ```
 
+<h1> How does the A* - Algorithm</h1>
+
 #### why the A*-Algorithm is extremely fast:
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif" align="left" width="200px"/>
 
@@ -79,7 +81,7 @@ The formula used for this is:
 > because otherwise the graph would not look like above, but like this:
  
 
-<img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" width="200px" />
+
 
 
 <img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700x"/>
