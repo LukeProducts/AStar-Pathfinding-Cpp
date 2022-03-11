@@ -64,6 +64,12 @@ The formula used for this is:
 > **(current_cell.x – goal.x)^2 + (current_cell.y – goal.y)^2** 
 
 
+
+**h(n)**
+> Is the number of travelled path units from the 
+> start node to the current position of n
+
+
 **f(n)**
 > the sum of both **g(n)** and **h(n)**
 
@@ -71,16 +77,10 @@ The formula used for this is:
 > examine from different nodes the one with the best score, 
 > with the greatest probability of being the fastest path, which makes the code much faster, 
 > because otherwise the graph would not look like above, but like this:
+ 
 
+<img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" width="200px" />
 
-
-
-
-
-
-**h(n)**
-> Is the number of travelled path units from the 
-> start node to the current position of n
 
 <img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700x"/>
 
