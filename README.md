@@ -110,6 +110,7 @@ the same priority
 
 
 
+--------------------------------------------------------
 
 ## included Features
 
@@ -117,8 +118,9 @@ https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/f803f8a619702f4d48c0e
 <h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L108-L139">AStarResult</a> - Class </h3>
 
 
-The main AStar() function returns a AStarResult class-object which provides
-- __hole path went__
+The main AStar() function returns a AStarResult class-object, which provides
+
+- __whole path went__
 - __the total amount of moves done__ 
 - __print out the hole maze__
 
