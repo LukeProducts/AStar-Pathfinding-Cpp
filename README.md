@@ -50,8 +50,6 @@ The formula used for this is:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Wayside_Signal_Red.svg" align="right" width="50px" />
 
-<br><br>
-
 --------------
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-5.png" align="right" width="200px" />
