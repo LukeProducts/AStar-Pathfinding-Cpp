@@ -7,7 +7,7 @@ For the representation of a maze a two nested vector is used.
 
 
 
-<img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700x"/>
+<img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700px"/>
 
 
 
@@ -205,3 +205,50 @@ what happens:
  
  https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/8488ab52bc5d2b31ab3f91f949e09666c714fe90/examples/prepare_maze.cpp#L36-L44
  
+------------------------------------------------
+
+<h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L454-L480">readmaze</a> - function </h3>
+
+readmaze reads in a maze from the consoles cin stream, <br>
+the first line must consist of two integers that indicate the height and width of the mazes to be read in. <br>
+In the following you can pass in the maze like this: <br>
+
+```
+    10 10        // first 10 = m = rows, second 10 = n = columns
+    ##########
+    #        #
+    # ##### ##
+    # ##    ##
+    # ##  ####
+    # ###    #
+    #  #  ## #
+    ###  ##  #
+    ##  ##  ##
+    ##########
+
+```
+readmaze converts this directly to the maze format by calling the prepare_maze - function, <br>
+which Astar() needs, <br>
+so in the one with ones and zeros:
+```
+    1111111111
+    1000000001
+    1011111011
+    1011000011
+    1011001111
+    1011100001
+    1001001101
+    1110011001
+    1100110011
+    1111111111
+```
+
+so you can pass in the return value vector\<vector\<int>> directly into the AStar - function:
+
+https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/examples/readmaze.cpp#L10-L16
+
+the disatvantage here is, that because readmaze converts the ascii maze into a numeric one at one time, <br>
+you must know the start and end position before, <br>
+you would hardcode them, <br>
+but that's probably not, what you want. <br><br>
+So theres the pardon readunpreparedmaze presented in the following.
