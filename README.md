@@ -160,6 +160,6 @@ The prepare function converts a maze consisting out of <br>
 barriers (f.ex. '#') and walkable terrain (f.ex. ' ') <br>
 is converted to a maze out of zeroes and ones, <br>
 the ones represent the not walkable terrain and the zeroes the walkable terrain by default. <br>
-All this settings could be adjusted in the #define statements at the beginning of this package.<br>
+All this settings could be adjusted in the __#define__ statements at the beginning of this package.<br>
 
 
