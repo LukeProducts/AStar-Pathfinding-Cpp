@@ -114,7 +114,7 @@ the same priority
 
 ## included Features
 
-https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/f803f8a619702f4d48c0e9661ed555c7d5f7ad06/examples/prepare_maze.cpp#L43-L55
+
 <h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L108-L139">AStarResult</a> - Class </h3>
 
 
@@ -124,6 +124,8 @@ The main AStar() function returns a AStarResult class-object, which provides
 - __the total amount of moves done__ 
 - __print out the hole maze__
 
+
+https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/f803f8a619702f4d48c0e9661ed555c7d5f7ad06/examples/prepare_maze.cpp#L43-L55
 
 possible output:
 
@@ -155,7 +157,7 @@ A* made 64 moves to reach (19, 29) from (1, 1)
 <br><br>
 -----------------------------------------------------------------------------------
 
-https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/14c2a2b6773bd87094b09eae8189e36539831fc7/examples/prepare_maze.cpp#L7-L32
+
 <h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L325-L368">prepare_maze()</a> - function </h3>
 
 The prepare function converts a maze consisting out of <br>
@@ -163,7 +165,7 @@ __barriers__ (f.ex. '#') and __walkable terrain__ (f.ex. ' ') <br>
 is converted to a maze out of zeroes and ones, <br>
 the ones represent the not walkable terrain and the zeroes the walkable terrain by default. <br><br>
 All this settings could be adjusted in the __#define__ statements at the beginning of this package.<br><br>
-
+https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/14c2a2b6773bd87094b09eae8189e36539831fc7/examples/prepare_maze.cpp#L7-L32
 
 ```
 ########## -----> 1111111111
