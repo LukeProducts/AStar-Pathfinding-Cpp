@@ -45,7 +45,7 @@ This also has the effect that A* always knows in which direction the end node is
 and therefore does not first examine the neighbor away from it, but first all fast paths.
 
 
-
+<img align="right" src="https://user-images.githubusercontent.com/73026669/157832180-b61c7c8b-e92d-4345-a907-dc931a651f2f.gif">
 [![Astar_progress_animation](https://user-images.githubusercontent.com/73026669/157832180-b61c7c8b-e92d-4345-a907-dc931a651f2f.gif)](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
 [![maze_sample](https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif)](https://github.com/LukeProducts)
