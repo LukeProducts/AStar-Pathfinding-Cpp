@@ -72,11 +72,12 @@ The formula used for this is:
 
  
 <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" align="left" width="200px" />
-> much slower search, <br>
-> because the algorith has no clue, <br>
-> in which direction to go first, <br>
-> so it goes in each direction with <br>
-> the same urgency
+<p style="color:green">
+much slower search, <br>
+because the algorith has no clue, <br>
+in which direction to go first, <br>
+so it goes in each direction with <br>
+the same urgency </p>
 
 <br><br><br><br>
 
