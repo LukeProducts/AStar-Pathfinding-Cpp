@@ -74,8 +74,7 @@ The formula used for this is:
 <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" align="left" width="200px" />
 much slower search, because the algorith has no clue, in which direction to go first
 
-
-
+<br><br>
 
 ## Example:
 ```
