@@ -59,7 +59,7 @@ The formula used for this is:
 **g(n)**
 > Is the estimate of how far n is from the end node 
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-5.png">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-5.png" align="right" width="200px" />
 
 
 
@@ -68,7 +68,7 @@ The formula used for this is:
 > Is the number of travelled path units from the 
 > start node to the current position of n
 
-<img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="right" width="200x"/>
+<img src="https://user-images.githubusercontent.com/73026669/157827590-874d57e2-23e4-49e6-9162-1b4d2be29f89.gif" align="left" width="700x"/>
 
 
 
