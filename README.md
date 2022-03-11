@@ -67,7 +67,9 @@ The formula used for this is:
 > is a score value with which we select and 
 > examine from different nodes the one with the best score, 
 > with the greatest probability of being the fastest path, which makes the code much faster, 
-> because otherwise the graph would not look like above, but like this (much slower search, because ):
+> because otherwise the graph would not look like above, but like this:
+> 
+>   (much slower search, because the algorith has no clue, in which direction to go first)
  
 <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" width="200px" />
 
