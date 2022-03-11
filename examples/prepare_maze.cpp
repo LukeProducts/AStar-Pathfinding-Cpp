@@ -29,7 +29,7 @@ vector<string> maze = {
 };
 
 // prepare maze to be able to pass it into AStar()
-vector<vector<int>> prepared_maze = prepared_maze(maze);
+vector<vector<int>> prepared_maze = prepare_maze(maze);
 
 
 int main() {
