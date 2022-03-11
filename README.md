@@ -49,7 +49,7 @@ The formula used for this is:
 
 **f(x) = g(x) + h(x)**
 
-
+<br>
 
 **g(x)**
 > this is to
