@@ -374,14 +374,14 @@ vector<vector<int>> prepare_maze(vector<string> curr_maze, char barrier = BARRIE
  * where maze needs to be in vector<vector<char>> or vector<string> format, like this:
 
     ##########
-    #        #
+    #a       #
     # ##### ##
     # ##    ##
     # ##  ####
     # ###    #
     #  #  ## #
     ###  ##  #
-    ##  ##  ##
+    ##  ## b##
     ##########
 
  * the whole maze can by read from the console via readunpreparedmaze(), which returns this type of maze
