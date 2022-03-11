@@ -48,6 +48,8 @@ The formula used for this is:
 
 > is the Node Object itself
 
+<img src="https://toppng.com/uploads/preview/red-dot-icon-11563501281yxfarybqza.png" align="right" width="200p" />
+
 --------------
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-5.png" align="right" width="200px" />
