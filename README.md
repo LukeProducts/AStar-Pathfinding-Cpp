@@ -37,8 +37,8 @@ For the representation of a maze a two nested vector is used.
 ```
 
 #### why the A*-Algorithm is extremely fast:
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif" align="left" width="200px"/>
 
-![Some Title](https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 In the following,
 the path problem is solved as quickly as possible by calculating a score from the estimated distance
 and the sum of paths already taken,
