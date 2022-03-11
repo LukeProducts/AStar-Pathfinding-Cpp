@@ -44,3 +44,4 @@ which is used to prioritize the order in which the neighbor nodes are investigat
 This also has the effect that A* always knows in which direction the end node is
 and therefore does not first examine the neighbor away from it, but first all fast paths.
 
+![maze](https://user-images.githubusercontent.com/73026669/157825845-108ba374-c500-4918-b388-6d1f3f1a28f3.gif)
