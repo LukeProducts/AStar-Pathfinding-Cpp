@@ -172,7 +172,7 @@ All this settings could be adjusted in the __#define__ statements at the beginni
 
 This is because **AStar()** needs this 2-dimensional vector <br>
 to figure out wheather its a walkable or not walkable terrain. <br><br>
-**prepare_maze()** can handle a vector\<string> or another vector\<vector\<char>>. <br>
+**prepare_maze()** can handle a vector\<string> or vector\<vector\<char>> <br>
  
 https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/14c2a2b6773bd87094b09eae8189e36539831fc7/examples/prepare_maze.cpp#L7-L32
 
@@ -196,6 +196,12 @@ what happens:
  <h3> <a href="https://github.com/LukeProducts/AStar-Pathfinding-Cpp/blob/main/AStar.hpp#L396-L421">find_obj</a> - function </h3> 
  
  
- **find_obj** finds an character out of a default maze, which needs to be a vector\<string>
+ **find_obj** finds an character out of a maze in ascii format, <br>
+ such as vector\<string> or vector\<vector\<char>> <br>
+ and returns a vector\<int> with the (x, y) position of the character into the maze. <br>
+ This is usefull to figure out the start and ends position in your maze, <br>
+ so that you can pass this info into Astar(), which needs the position <br>
+ of the start and end node at second and third position like findobj() returns it for you.
+ 
  
  
