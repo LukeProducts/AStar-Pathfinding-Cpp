@@ -143,7 +143,7 @@ Node pop(vector<Node> &heap) {
      * astar() - intern function to find the node with the snallest f score, which means,
      * it is located potentially nearest to the end Node
      * */
-    Node smallest = *min_element(heap.begin(), heap.end()); // get the Node with the smallest distance f to out end node
+    Node smallest = *min_element(heap.begin(), heap.end()); // get the Node with best chances to reach end note first
     heap.erase(min_element(heap.begin(), heap.end())); // pop this Node out
     return smallest;
 }
